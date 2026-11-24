@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aura Studio</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_saved">Saved</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="try_sample">Try Sample</string>
+    <string name="change_photo">Replace</string>
+    <string name="download_hd">Download HD</string>
+    <string name="share_photo">Share</string>
+    <string name="tab_clothes">Clothes</string>
+    <string name="tab_hairstyle">Hairstyle</string>
+    <string name="tab_background">Background</string>
+    <string name="prompt_background_hint">Describe any background (e.g., golden hour Paris rooftop café with warm bokeh)…</string>
+    <string name="prompt_clothes_hint">Describe outfit style (e.g., tailored emerald blazer over white silk top)…</string>
+    <string name="prompt_hair_hint">Describe hairstyle &amp; color (e.g., textured chestnut lob with curtain bangs)…</string>
+    <string name="enhance_prompt">Enhance</string>
+    <string name="generate_edit">Apply AI Edit</string>
+    <string name="generating_status">Synthesizing in HD (30–60s)…</string>
+    <string name="compare_original">Original</string>
+    <string name="compare_edited">Edited</string>
+    <string name="compare_split">Split</string>
+    <string name="saved_empty_title">No HD Exports Yet</string>
+    <string name="saved_empty_subtitle">Edit a portrait in the Studio and tap Download HD to save studio-grade creations to your gallery.</string>
+    <string name="error_empty_prompt">Enter a prompt or pick a preset style to generate an edit.</string>
+</resources>
